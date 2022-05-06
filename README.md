@@ -1,8 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/86/56/8d/86568d91236335604340fcc893087cdb.gif)
 <h1 align="center">Hi 👋, I'm Victor Omusi </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Student at **California Baptist University**</h3>
 
--    I'm currently a Computer Science Student at **California Baptist University**
 - 🔭 I’m currently working on **GCP Associate Cloud Engineer cert**
 
 - 🌱 I’m currently learning **Python**
